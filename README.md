@@ -300,6 +300,7 @@ AI-generated apps often ship with exposed secrets, open databases, or missing se
 - [WhichAICoder](https://whichaicoder.com) - Free guide picking one AI coding tool per use case (11 use cases, 39 tools), scored on a public 100-point rubric with dated, sourced price checks.
 - [publish-browser-game](https://github.com/Xmo101/publish-browser-game) - MIT checklist, Claude Code skill, Cursor rule and AGENTS.md snippet that walk a coding agent through shipping a browser game (load speed, touch controls, share tags) and finding its first players.
 - [Agent Cookbook: Claude Code use cases](https://agentcookbook.dev/claude-code-use-cases) - Free, sourced collection of Claude Code workflows (some paired with Codex), each linked to the builder's own post, repo or doc, with their template or prompt when published.
+- [hype or code](https://hypeorcode.com/) - Free gallery that gives every new OpenRouter model the same six prompts (Breakout game, landing page, SVG, HTML wristwatch, logo, About copy), one shot each, and shows what each one built side by side with time and cost. No signup.
 
 ## News and Social Media
 
